@@ -1,11 +1,14 @@
 Hi there! I'm Abhijit 👋
+
 Specialist Programmer | Real-time ETL Lead | Java Spring Boot Developer | AI Agent Architect
 
 I am a Specialist Programmer with 6.5 years of experience building mission-critical data systems for the Retail and Banking sectors. 
 I specialize in bridging the gap between high-performance Java microservices and modern Agentic AI ecosystems.
 
 🔭 Current Focus: Leading onsite ETL teams at Infosys to architect multi-cloud data domains across 45+ international markets.
+
 ⚡ Specialty: Engineering real-time data synchronization pipelines and autonomous multi-agent workflows.
+
 🛠️ Tech Stack: Java (Spring Boot), Python, AWS/Azure, Databricks, and LangChain/LangGraph.
 
 🚀 Technical Expertise
@@ -27,6 +30,9 @@ I specialize in bridging the gap between high-performance Java microservices and
 * AI Innovation: Implemented autonomous multi-agent workflows using LangGraph and Neo4j to automate complex decision-making processes.
 
 📫 Connect with Me
+
 💼 LinkedIn: https://www.linkedin.com/in/abhijit-banerjee-8581b5140/
+
 📧 Email: abhijit17.1997@gmail.com
+
 📍 Location: Utah, USA
